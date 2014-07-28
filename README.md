@@ -13,4 +13,4 @@ Coaches, you can run these commands in irb or pry to experience the functionalit
 <br>jenny.add_to_order(dish3)
 <br>jenny.place(Order)
 <br>my_order = Order.new(jenny)
-<br>order.confirm_total<br>
+<br>my_order.confirm_total<br>
